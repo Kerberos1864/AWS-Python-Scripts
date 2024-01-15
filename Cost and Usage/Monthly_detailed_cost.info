@@ -1,0 +1,2 @@
+Lambda Automate Detailed Monthly Cost Reports through Boto3 using Cost Explorer API and AWS SES.
+Builds an HTML Table with Cost variation between choosen previous months.
