@@ -1,5 +1,5 @@
 # AWS-Boto3-Scripts
-Useful scripts for automation of operations and costs.
+Useful scripts for automation of operations, security and costs.
 Some of the scripts are written to require access keys and rest should be used in Lambdas.
 These pythons scripts and lambdas will cover three topics and should be implemented inside the management account only:
   1) AWS Security (Automation of IAM and IdentityCenter(SSS)
