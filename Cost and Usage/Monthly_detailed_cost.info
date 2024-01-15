@@ -1,2 +1,3 @@
 Lambda Automate Detailed Monthly Cost Reports through Boto3 using Cost Explorer API and AWS SES.
 Builds an HTML Table with Cost variation between choosen previous months.
+Use Lambda Variable to set the recipient email addresses you wish them to receive this report.
