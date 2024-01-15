@@ -1,0 +1,2 @@
+This job takes as an input a user email address and outputs the accounts he has access to with corresponding permission sets.
+Also group memberships will be shown as well.
