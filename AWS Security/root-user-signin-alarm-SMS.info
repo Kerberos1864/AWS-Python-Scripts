@@ -1,0 +1,3 @@
+This is a lambda function based on python to alert you via SNS whenever root user signs in with root credentials.
+The script main objective is to digest the cloudwatch event and make it smaller in size so it can be sent through SMS.
+SMS will be received when root user signs in containing Source IP address and if login attempt was successful or with Failure.
