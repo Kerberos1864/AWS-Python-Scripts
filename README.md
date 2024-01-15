@@ -5,3 +5,5 @@ These pythons scripts and lambdas will cover three topics and should be implemen
   1) AWS Security (Automation of IAM and IdentityCenter(SSS)
   2) AWS Cost and Usage (Cost Explorer/Billing Alarms/Monthly Reports)
   3) Listing and Identifiying resources in AWS Organizations.
+
+Each script has a corresponding info file which explains the use and need behind it.
