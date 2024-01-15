@@ -1,0 +1,4 @@
+As you know that in AWS Organizations the CUR of all member accounts are grouped and centralized in the management account.
+What if a member inside organization has 5 accounts and wants to see the CUR for these 5 accounts in 1 place ?
+This script will query the main CUR and based on the accounts you provide in the code it will create the CUR as a csv file in a
+destination S3 bucket.
