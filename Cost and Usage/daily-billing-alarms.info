@@ -1,0 +1,9 @@
+This is a lambda python script that gets daily cost usage from cost explorer and extact cost of ec2 and rds.
+At the end an email will be sent.
+
+What is need is:
+1) In AWS Organization each account should have a threshold tag which can be any integer (example: 100)
+2) Each account should have an owner email tag with an email address as a value to receive the email alerts daily.
+
+You should be creating a template in json file for email and upload to it to SES to be used in lambda.
+Check Template CLI SES documentation.
