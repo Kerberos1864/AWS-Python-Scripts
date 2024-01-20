@@ -1,0 +1,1 @@
+This lambda allows exporting of dynamoDB tables to CSV files to be stored in specific S3 Buckets.
